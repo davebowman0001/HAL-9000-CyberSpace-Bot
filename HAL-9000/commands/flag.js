@@ -12,4 +12,3 @@ module.exports = {
 	},
 };
 
-//CSHIDDENFLAG1{d0ubl3_ch3ck}
