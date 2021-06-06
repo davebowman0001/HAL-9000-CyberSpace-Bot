@@ -7,5 +7,6 @@ module.exports = {
 		if (!serverQueue) return message.channel.send('There is no song that I could resume!');
 		if (!serverQueue.connection.dispatcher.paused) return message.channel.send('Song already resumed!');
 		serverQueue.connection.dispatcher.resume();
+		//nice
 	},
 };
